@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>009318DF-7C4F-48EE-AEF1-BA7D8FC62665</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ICMediaManagerDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B6AE66C4-2277-4327-9EEA-A96AA1D4E16E</key>
+		<string>https://github.com/foxbabe/ICMediaManager</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ICMediaManagerDemo/ICMediaManagerDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B6AE66C4-2277-4327-9EEA-A96AA1D4E16E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/foxbabe/ICMediaManager</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B6AE66C4-2277-4327-9EEA-A96AA1D4E16E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B6AE66C4-2277-4327-9EEA-A96AA1D4E16E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ICMediaManager</string>
+		</dict>
+	</array>
+</dict>
+</plist>
